@@ -1,0 +1,14 @@
+# Pengaturan Situs
+title: Indonesian Fansubs Database
+author: Komunitas FansubID
+description: Pedoman Nagih Rilisan ( ͡° ͜ʖ ͡°)
+keywords: Database, Fansub, Fansub Database, Fansub Indonesia
+# url:
+# permalink: /:category/:tags/:title
+
+# Zona Waktu
+timezone: Asia/Jakarta
+
+# Lain-lain
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
